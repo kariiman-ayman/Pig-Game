@@ -1,6 +1,6 @@
 # 🐷 Pig Game - A Fun and Interactive Dice Game 🎲
 
-Welcome to the **Pig Game** repository! This is a simple yet addictive dice game built as part of the [The Complete JavaScript Course 2025: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/?kw=java&src=sac&couponCode=KEEPLEARNING) on Udemy. The game is live and playable here: [Pig Game](https://piggame-kariman.netlify.app/). 🚀
+Welcome to the **Pig Game** repository! This is a simple yet addictive dice game built as part of the [The Complete JavaScript Course 2025: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/?kw=java&src=sac&couponCode=KEEPLEARNING) on Udemy. The game is live and playable here: [Pig Game](https://pig-game-kariman.vercel.app/). 🚀
 
 ---
 

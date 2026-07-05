@@ -73,7 +73,7 @@ Want to run the game on your machine? Follow these steps:
 
 ## 🔗 **Live Demo**
 
-Play the game online here: [Pig Game](https://piggame-kariman.netlify.app/) 🌐
+Play the game online here: [Pig Game](https://pig-game-kariman.vercel.app/) 🌐
 
 ---
 
